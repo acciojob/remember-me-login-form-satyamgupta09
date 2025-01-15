@@ -14,5 +14,5 @@ document.getElementById('submit').addEventListener('click', function () {
 		document.getElementById('existing').style.display="none"
 	}
 	
-	alert(`Logged in as ${username}`);
+	alert(`Logged in as ${name}`);
 })
